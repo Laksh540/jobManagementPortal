@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/jobManagementPortal/static/css/main.a617e044.chunk.css",
-    "main.js": "/jobManagementPortal/static/js/main.9defd23d.chunk.js",
-    "main.js.map": "/jobManagementPortal/static/js/main.9defd23d.chunk.js.map",
+    "main.js": "/jobManagementPortal/static/js/main.0807b705.chunk.js",
+    "main.js.map": "/jobManagementPortal/static/js/main.0807b705.chunk.js.map",
     "runtime-main.js": "/jobManagementPortal/static/js/runtime-main.e5fd562a.js",
     "runtime-main.js.map": "/jobManagementPortal/static/js/runtime-main.e5fd562a.js.map",
-    "static/js/2.b53f49f1.chunk.js": "/jobManagementPortal/static/js/2.b53f49f1.chunk.js",
-    "static/js/2.b53f49f1.chunk.js.map": "/jobManagementPortal/static/js/2.b53f49f1.chunk.js.map",
+    "static/js/2.6180cfd1.chunk.js": "/jobManagementPortal/static/js/2.6180cfd1.chunk.js",
+    "static/js/2.6180cfd1.chunk.js.map": "/jobManagementPortal/static/js/2.6180cfd1.chunk.js.map",
     "static/js/3.e7132ac8.chunk.js": "/jobManagementPortal/static/js/3.e7132ac8.chunk.js",
     "static/js/3.e7132ac8.chunk.js.map": "/jobManagementPortal/static/js/3.e7132ac8.chunk.js.map",
     "index.html": "/jobManagementPortal/index.html",
     "static/css/main.a617e044.chunk.css.map": "/jobManagementPortal/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b53f49f1.chunk.js.LICENSE.txt": "/jobManagementPortal/static/js/2.b53f49f1.chunk.js.LICENSE.txt"
+    "static/js/2.6180cfd1.chunk.js.LICENSE.txt": "/jobManagementPortal/static/js/2.6180cfd1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e5fd562a.js",
-    "static/js/2.b53f49f1.chunk.js",
+    "static/js/2.6180cfd1.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.9defd23d.chunk.js"
+    "static/js/main.0807b705.chunk.js"
   ]
 }
