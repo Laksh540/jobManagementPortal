@@ -18,6 +18,7 @@ const Main=(props)=>{
     const showFormHandler =()=>{
         
             setFormToggle(true);
+            setShowApplicantForm(false);
        
        // props.toggleForm(showAddJobForm);
     }
@@ -32,10 +33,15 @@ const Main=(props)=>{
     }
     const showApplicantFormHandler=()=>{
             setShowApplicantForm(true);
+            setFormToggle(false);
     }
     const showJobListHandler=()=>{
         setShowApplicantForm(false);
 }
+    const hideApplicantFormHandler=()=>{
+        setShowApplicantForm(false);
+        
+    }
     useEffect(() =>{
          if(JSON.parse(localStorage.getItem('currentJobs')) != null){
             setNewJob(JSON.parse(localStorage.getItem('currentJobs')));
@@ -69,7 +75,8 @@ const Main=(props)=>{
             </div>
             <div>
                 {!showApplicantForm && <JobsCreated lsItem={newJob}></JobsCreated>}
-                {showApplicantForm && <ApplicantForm></ApplicantForm>}
+                {showApplicantForm  && <ApplicantForm
+                                            applicantFormHide={hideApplicantFormHandler}   ></ApplicantForm>}
                {/* {props.lsItem.map((job) =>
                   <div>
                     <p>{job.id}</p>

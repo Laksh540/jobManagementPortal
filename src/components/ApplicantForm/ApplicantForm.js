@@ -1,6 +1,13 @@
+import { useState } from "react";
 import classes from "./ApplicantForm.module.css"
 
-const ApplicantForm=()=>{
+const ApplicantForm=(props)=>{
+    const [hideApplicantForm,setHideApplicantForm]=useState(false);
+    const closeApplicationFormHandler=(event)=>{
+        // event.preventDefault();
+        setHideApplicantForm(true)
+        props.applicantFormHide(hideApplicantForm);
+    }
     return(
         <div className={classes.form_wrap}>
                 <form >
@@ -37,7 +44,7 @@ const ApplicantForm=()=>{
                     <button type="submit" className=" btn btn-primary">Submit</button>
                     
                     <button type="submit" className={classes.cancelbtn+" btn btn-danger"}
-                        
+                             onClick={closeApplicationFormHandler}
                     >Cancel</button>
                 </form>
             </div>
