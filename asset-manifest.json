@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jobManagementPortal/static/css/main.2958c69d.chunk.css",
-    "main.js": "/jobManagementPortal/static/js/main.59962faf.chunk.js",
-    "main.js.map": "/jobManagementPortal/static/js/main.59962faf.chunk.js.map",
+    "main.js": "/jobManagementPortal/static/js/main.7ea380f4.chunk.js",
+    "main.js.map": "/jobManagementPortal/static/js/main.7ea380f4.chunk.js.map",
     "runtime-main.js": "/jobManagementPortal/static/js/runtime-main.ea56d9c4.js",
     "runtime-main.js.map": "/jobManagementPortal/static/js/runtime-main.ea56d9c4.js.map",
     "static/js/2.a2221e47.chunk.js": "/jobManagementPortal/static/js/2.a2221e47.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ea56d9c4.js",
     "static/js/2.a2221e47.chunk.js",
     "static/css/main.2958c69d.chunk.css",
-    "static/js/main.59962faf.chunk.js"
+    "static/js/main.7ea380f4.chunk.js"
   ]
 }
