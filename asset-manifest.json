@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jobManagementPortal/static/css/main.a617e044.chunk.css",
-    "main.js": "/jobManagementPortal/static/js/main.0807b705.chunk.js",
-    "main.js.map": "/jobManagementPortal/static/js/main.0807b705.chunk.js.map",
-    "runtime-main.js": "/jobManagementPortal/static/js/runtime-main.e5fd562a.js",
-    "runtime-main.js.map": "/jobManagementPortal/static/js/runtime-main.e5fd562a.js.map",
-    "static/js/2.6180cfd1.chunk.js": "/jobManagementPortal/static/js/2.6180cfd1.chunk.js",
-    "static/js/2.6180cfd1.chunk.js.map": "/jobManagementPortal/static/js/2.6180cfd1.chunk.js.map",
-    "static/js/3.e7132ac8.chunk.js": "/jobManagementPortal/static/js/3.e7132ac8.chunk.js",
-    "static/js/3.e7132ac8.chunk.js.map": "/jobManagementPortal/static/js/3.e7132ac8.chunk.js.map",
+    "main.css": "/jobManagementPortal/static/css/main.2958c69d.chunk.css",
+    "main.js": "/jobManagementPortal/static/js/main.59962faf.chunk.js",
+    "main.js.map": "/jobManagementPortal/static/js/main.59962faf.chunk.js.map",
+    "runtime-main.js": "/jobManagementPortal/static/js/runtime-main.ea56d9c4.js",
+    "runtime-main.js.map": "/jobManagementPortal/static/js/runtime-main.ea56d9c4.js.map",
+    "static/js/2.a2221e47.chunk.js": "/jobManagementPortal/static/js/2.a2221e47.chunk.js",
+    "static/js/2.a2221e47.chunk.js.map": "/jobManagementPortal/static/js/2.a2221e47.chunk.js.map",
+    "static/js/3.80245a9e.chunk.js": "/jobManagementPortal/static/js/3.80245a9e.chunk.js",
+    "static/js/3.80245a9e.chunk.js.map": "/jobManagementPortal/static/js/3.80245a9e.chunk.js.map",
     "index.html": "/jobManagementPortal/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/jobManagementPortal/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.6180cfd1.chunk.js.LICENSE.txt": "/jobManagementPortal/static/js/2.6180cfd1.chunk.js.LICENSE.txt"
+    "static/css/main.2958c69d.chunk.css.map": "/jobManagementPortal/static/css/main.2958c69d.chunk.css.map",
+    "static/js/2.a2221e47.chunk.js.LICENSE.txt": "/jobManagementPortal/static/js/2.a2221e47.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5fd562a.js",
-    "static/js/2.6180cfd1.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.0807b705.chunk.js"
+    "static/js/runtime-main.ea56d9c4.js",
+    "static/js/2.a2221e47.chunk.js",
+    "static/css/main.2958c69d.chunk.css",
+    "static/js/main.59962faf.chunk.js"
   ]
 }
