@@ -1,0 +1,22 @@
+/* .form_align{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 500px;
+}
+.form_align div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.add{
+    width: 500px;
+} */
+.form_wrap{
+    width: 500px;
+    margin: 20px auto;
+    
+}
+.cancelbtn{
+    margin-left: 20px;
+}

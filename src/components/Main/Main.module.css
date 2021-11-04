@@ -1,0 +1,44 @@
+.main_container{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.nav{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+
+.nav div h3{
+    color: #282828;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.nav div p{
+    color: #3b3c36;
+    font-weight: 500;
+}
+
+.nav div p span{
+    color: #16161d;
+}
+
+.nav input{
+    border: none;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 700;
+    background-color: blue;
+}
+.navtags{
+    text-align: end;
+}
+.nav input:hover{
+    background-color: #0000ffd6;
+    cursor: pointer;
+}
